@@ -21,6 +21,7 @@
 ## Список використаних джерел:
 * [Посилання на ресурс з 3D-моделями, що були використані у прикладах](https://sketchfab.com/tags/opengl)
 * [Посилання на ресурс з шейдерами, що були використані у прикладах (після додаткової обробки)](https://www.geeks3d.com/shader-library/)
+* [Посилання на ресурс, що дозволяє демонстрацію перформансу результатів](http://github.com/mrdoob/stats.js)
 1.	Тернер Уіттіс. «Покращена модель освітлення для затіненого дисплея», 1980 [Text].
 2.	Роберт Кук, Томас Портер, Лорен Карпентер. «Розподілене трасування променів», 1984 [Text].
 3.	J. Avro, and D. Kirk. A survey of ray tracing acceleration techniques. In An Introduction to Ray Tracing, A. Glassner, Ed., pages 201–262. Academic Press, San Diego, CA, 1989 [Text].
